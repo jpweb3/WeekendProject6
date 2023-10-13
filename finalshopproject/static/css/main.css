@@ -1,0 +1,11 @@
+
+.shop-header {
+    background-image: url('/finalshopproject/images/peter-broomfield-m3m-lnR90uM-unsplash.jpg');
+    background-size: cover;
+    height: 700px;
+    color: white;
+}
+
+.shop-stats{
+    color: white;
+}
